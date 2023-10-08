@@ -1,14 +1,18 @@
-<html lang="en"> 
-   <head> 
-     <meta charset="UTF-8" /> 
-     <link rel="icon" type="image/svg+xml" href="/src/favicon.svg" /> 
-     <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
-     <title>React Practice</title> 
-   </head> 
-   <body class="flex flex-col h-full"> 
-     <div id="root"></div> 
-     <script type="module" src="/src/main.tsx"></script> 
-   </body> 
- </html>
 
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Learn Programming</title>
+  </head>
+  <body>
+    <h1>Programming Hero</h1>
+    <h2>Programming Just Got Fun</h2>
+    <img src="https://images.app.goo.gl/ekCZ9yKRNuemwPwG7" alt="programming_hero logo" />
+    <p>
+      Enjoy a personalized, fun, and interactive learning process while becoming a    Programming Hero.
+    </p>
+  </body>
+</html>
 
