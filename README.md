@@ -4,7 +4,6 @@ https://images.app.goo.gl/ptvUFT1n3VjWPZBbA
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Learn Programming</title>
   </head>
   <body>
     <h1>Programming Hero</h1>
