@@ -1,17 +1,18 @@
-https://images.app.goo.gl/ptvUFT1n3VjWPZBbA
+ //filename:Example.java
+import java.util.Scanner;
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-  </head>
-  <body>
-    <h1>Programming Hero</h1>
-    <h2>Programming Just Got Fun</h2>
-    <img src="https://images.app.goo.gl/ptvUFT1n3VjWPZBbAalt"="programming_hero logo" />
-    <p>
-      Enjoy a personalized, fun, and interactive learning process while becoming a    Programming Hero.
-    </p>
-  </body>
-</html>
-
+class Example {
+    public static void main(String args[]) {
+        int number;
+        
+        Scanner input = new Scanner(System.in);
+        number = input.nextInt();
+        if(number > 0){
+            System.out.println("Positive Number!");
+        } else if(number < 0){
+            System.out.println("Negative Number");
+        } else {
+            System.out.println("It's Zero!");
+        }
+    }
+}
